@@ -1,10 +1,19 @@
 # Responsive eCommerce CodeIgniter
 
-- Silahkan ganti API Key RajaOngkir pada file config dengan API Key milik Anda.
+<b>Banyak perbaikan, silahkan download ulang</b>
+
+- Silahkan ganti API Key RajaOngkir pada file config rajaongkir dengan API Key milik Anda.
 - Silahkan ganti Pengaturan Email (SMTP) pada file Email Helper dan file Controller Admin dengan pengaturan email Anda.
++ Terdapat 2 level pengguna yaitu admin dan user
++ Login admin dan user sama
 
-Klik disini untuk melihat [Live Demo](https://demo-ecommerce-1.zamanet.com) <br>
-Bacalah file <b>readme.txt</b> di dalam folder database untu melihat detail login.
+<b>Admin</b>
+Username : admin
+Password : admin123
 
-[Screenshot 1](https://zamanet.com/images/Screenshot_1.jpg) <br>
-[Screenshot 2](https://zamanet.com/images/Screenshot_2.jpg) <br>
+<b>User</b>
+Username : user
+Password : user123
+
+Direkomendasikan PHP7.2 / PHP7.3 <br>
+Apabila run dilokal, direkomendasikan terhubung internet
