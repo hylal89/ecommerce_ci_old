@@ -8,11 +8,11 @@
 + Login admin dan user sama
 
 <b>Admin</b><br>
-Username : admin
+Username : admin<br>
 Password : admin123
 
 <b>User</b><br>
-Username : user
+Username : user<br>
 Password : user123
 
 Direkomendasikan PHP7.2 / PHP7.3 <br>
